@@ -17,5 +17,22 @@
                 "path": "./themes/Miramare-color-theme.json"
             }
         ]
-    }
+    },
+    "publisher": "FranciscoBach",
+	"author": {
+		"name": "Francisco Bach"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/franbach/miramare-vscode.git"
+	},
+	"icon": "miramare-icon.png",
+	"keywords": [
+		"Miramare",
+		"miramare theme",
+		"dark theme",
+		"dark",
+		"theme"
+	]
 }
